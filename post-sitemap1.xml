@@ -4,6 +4,37 @@
 		<loc>/blog/</loc>
 	</url>
 	<url>
+		<loc>/les-secrets-de-longevite/</loc>
+		<lastmod>2024-03-18T10:38:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/02/Comment-La-Meditation-de-Pleine-Conscience-Peut-Aider-a-Ameliorer-Votre-Sante-Mentale-et-Physique.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/01/Reequilibrer-votre-alimentation-_-decouvrez-les-omega-3-et-leur-pouvoir-anti-inflammatoire-5B.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2024/03/Les-secrets-de-longevite.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/les-bienfaits-de-la-meditation-sur-les-corps-energetiques-comment-nettoyer-et-equilibrer-votre-energie-vitale/</loc>
 		<lastmod>2024-03-17T11:35:50+00:00</lastmod>
 		<image:image>
@@ -3446,13 +3477,6 @@
 		<lastmod>2023-11-20T15:29:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/fichiers/2020/10/anxiete-stress.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/le-glutathion/</loc>
-		<lastmod>2023-11-20T15:29:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2022/04/glutathion.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/le-glutathion/</loc>
+		<lastmod>2023-11-20T15:29:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2022/04/glutathion.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/les-bienfaits-de-lavocat-pour-la-sante/</loc>
 		<lastmod>2023-11-20T15:29:03+00:00</lastmod>
 		<image:image>
@@ -1592,6 +1599,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/phytotherapie-le-romarin/</loc>
+		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/comprendre-la-phytotherapie-les-secrets-de-la-medecine-a-base-de-plantes/</loc>
 		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
 		<image:image>
@@ -1614,13 +1628,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/05/image-36.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/phytotherapie-le-romarin/</loc>
-		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2591,31 +2598,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/08/1638791299_transformer-sa-vie-avec-lAccess-Consciousness-_xl-beta-v2-2-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/bioenergie-vs-access-consciousness-vs-reiki-quelles-sont-les-differences/</loc>
-		<lastmod>2023-11-19T09:22:05+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2023/08/Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-quelles-sont-les-differences-_.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-quelles-sont-les-differences-_3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-quelles-sont-les-differences-_4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-quelles-sont-les-differences-_6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/2210775712_Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-qu_xl-beta-v2-2-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/1540713084_Bioenergie-vs.-Access-Consciousness-vs.-Reiki-_-qu_xl-beta-v2-2-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/08/VWF8AYP5QT.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
