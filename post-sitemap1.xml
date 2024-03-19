@@ -4,6 +4,25 @@
 		<loc>/blog/</loc>
 	</url>
 	<url>
+		<loc>/la-spiruline-nutriment-complet-et-naturel/</loc>
+		<lastmod>2024-03-19T11:37:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2020/09/spiruline-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2020/09/La-spiruline-nutriment-complet-et-naturel3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2020/09/La-spiruline-nutriment-complet-et-naturel4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/05/image.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2020/09/La-spiruline-nutriment-complet-et-naturel2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/les-secrets-de-longevite/</loc>
 		<lastmod>2024-03-18T10:38:11+00:00</lastmod>
 		<image:image>
@@ -3470,13 +3489,6 @@
 		<lastmod>2023-11-20T15:30:17+00:00</lastmod>
 		<image:image>
 			<image:loc>/fichiers/2021/07/homeopathie.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/anxiete-stress-psychose-du-coronavirus-dysfonctionnement-de-lorganisme/</loc>
-		<lastmod>2023-11-20T15:29:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2020/10/anxiete-stress.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
