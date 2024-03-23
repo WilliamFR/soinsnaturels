@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/les-champignons-nos-allies-contre-la-covid-19/</loc>
+		<lastmod>2023-11-20T15:31:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2020/10/champignons.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/l-importance-de-la-vitamine-d-et-la-covid-19/</loc>
 		<lastmod>2023-11-20T15:31:24+00:00</lastmod>
 		<image:image>
@@ -1620,13 +1627,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/phytotherapie-le-romarin/</loc>
-		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/comprendre-la-phytotherapie-les-secrets-de-la-medecine-a-base-de-plantes/</loc>
 		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
 		<image:image>
@@ -1649,6 +1649,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/05/image-36.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/phytotherapie-le-romarin/</loc>
+		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2558,13 +2565,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/07/La-conscience-de-soi-_-un-developpement-essentiel2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/lachez-prise-avec-laccess-consciousness/</loc>
-		<lastmod>2023-11-19T09:25:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2023/07/Lachez-prise-avec-lAccess-Consciousness.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
