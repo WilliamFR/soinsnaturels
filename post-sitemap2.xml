@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/lhypertension-arterielle/</loc>
+		<lastmod>2023-11-20T15:31:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2020/10/hypertension.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/booster-son-systeme-immunitaire-pour-affronter-les-pathologies-hivernales/</loc>
 		<lastmod>2023-11-20T15:31:48+00:00</lastmod>
 		<image:image>
@@ -2552,16 +2559,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/05/image-38.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/access-consciousness-utilisez-les-lettres-de-liberation-pour-vous-debarrasser-de-tout-ce-qui-vous-encombre/</loc>
-		<lastmod>2023-11-19T09:28:20+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2023/06/Access-Consciousness-_-utilisez-les-lettres-de-liberation-pour-vous-debarrasser-de-tout-ce-qui-vous-encombre.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/06/Access-Consciousness-_-utilisez-les-lettres-de-liberation-pour-vous-debarrasser-de-tout-ce-qui-vous-encombre2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
