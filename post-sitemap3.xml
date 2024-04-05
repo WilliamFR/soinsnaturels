@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/access-bars-quand-et-comment-lutiliser/</loc>
+		<lastmod>2023-11-19T09:30:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2023/04/Access-Bars-_-quand-et-comment-lutiliser-_.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/la-declaration-dautorisation-access-consciousness-expliquee/</loc>
+		<lastmod>2023-11-19T09:29:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2023/05/La-declaration-dautorisation-Access-Consciousness-expliquee.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/un-nouveau-depart-avec-laccess-bars/</loc>
+		<lastmod>2023-11-19T09:29:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2023/05/Un-nouveau-depart-avec-lAccess-Bars%C2%AE.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/05/image-38.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/access-consciousness-utilisez-les-lettres-de-liberation-pour-vous-debarrasser-de-tout-ce-qui-vous-encombre/</loc>
 		<lastmod>2023-11-19T09:28:20+00:00</lastmod>
 		<image:image>
