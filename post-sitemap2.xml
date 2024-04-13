@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/le-rythme-biologique-chinois-comprendre-votre-horloge-interne-pour-mieux-dormir/</loc>
+		<lastmod>2023-11-21T10:04:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2023/11/Le-rythme-biologique-chinois-_-comprendre-votre-horloge-interne-pour-mieux-dormir.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/11/Le-rythme-biologique-chinois-_-comprendre-votre-horloge-interne-pour-mieux-dormir4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/11/Le-rythme-biologique-chinois-_-comprendre-votre-horloge-interne-pour-mieux-dormir5.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/11/Le-rythme-biologique-chinois-_-comprendre-votre-horloge-interne-pour-mieux-dormir2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/fichiers/2023/11/Le-rythme-biologique-chinois-_-comprendre-votre-horloge-interne-pour-mieux-dormir3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/4-plantes-pour-lutter-contre-les-rides/</loc>
+		<lastmod>2023-11-20T15:36:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2023/04/4-plantes-pour-lutter-contre-les-rides.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/lacidose-et-son-incidence-sur-lorganisme/</loc>
 		<lastmod>2023-11-20T15:33:29+00:00</lastmod>
 		<image:image>
@@ -1662,6 +1688,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/phytotherapie-le-romarin/</loc>
+		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/comprendre-la-phytotherapie-les-secrets-de-la-medecine-a-base-de-plantes/</loc>
 		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
 		<image:image>
@@ -1684,13 +1717,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/05/image-36.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/phytotherapie-le-romarin/</loc>
-		<lastmod>2023-11-20T14:26:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2022/04/romarain.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2527,35 +2553,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/fichiers/2023/05/reiki.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/decouvrez-les-pouvoirs-curatifs-du-reiki-un-guide-complet-sur-la-therapie-energetique-reiki-les-massages-et-les-rituels-du-monde/</loc>
-		<lastmod>2023-11-19T09:36:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2023/10/Decouvrez-les-pouvoirs-curatifs-du-reiki-_-un-guide-complet-surlLa-therapie-energetique-reiki-les-massages-et-les-rituels-du-monde4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/10/Decouvrez-les-pouvoirs-curatifs-du-reiki-_-un-guide-complet-surlLa-therapie-energetique-reiki-les-massages-et-les-rituels-du-monde.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/10/Decouvrez-les-pouvoirs-curatifs-du-reiki-_-un-guide-complet-surlLa-therapie-energetique-reiki-les-massages-et-les-rituels-du-monde2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/10/Decouvrez-les-pouvoirs-curatifs-du-reiki-_-un-guide-complet-surlLa-therapie-energetique-reiki-les-massages-et-les-rituels-du-monde3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2021/03/reiki.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/fichiers/2023/09/1842745448_Les-differentes-ecoles-de-reiki-_-un-guide-compl_xl-beta-v2-2-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/quest-ce-que-le-reiki/</loc>
-		<lastmod>2023-11-19T09:32:50+00:00</lastmod>
-		<image:image>
-			<image:loc>/fichiers/2021/03/Reiki-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
